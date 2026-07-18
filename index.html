@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark" />
+    <title>STACKS ATLAS — Stacks Project 依赖星图</title>
+    <style>
+      /* 首屏兜底样式（完整样式见 src/style.css），避免加载期白屏 */
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        background: radial-gradient(120% 90% at 50% 30%, #070b14 0%, #04060c 100%);
+      }
+      #root {
+        position: fixed;
+        inset: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
