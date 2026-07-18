@@ -4,7 +4,8 @@
 
 [English] ｜ [简体中文](./README.md)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Kimi%20Link-2EA44F?logo=vercel&logoColor=white)](https://stacks-atlas.ok.kimi.link/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2EA44F?logo=github&logoColor=white)](https://inorganben.github.io/stacks-atlas/)
+[![Mirror](https://img.shields.io/badge/Mirror-Kimi%20Link-8257E0?logo=vercel&logoColor=white)](https://stacks-atlas.ok.kimi.link/)
 [![Built with Kimi K3](https://img.shields.io/badge/Built%20with-Kimi%20K3-FF6B35)](https://kimi.moonshot.cn/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
